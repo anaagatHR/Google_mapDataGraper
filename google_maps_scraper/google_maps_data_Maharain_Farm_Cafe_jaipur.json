@@ -1,0 +1,322 @@
+[
+    {
+        "name": "The Farm Coffee Bar",
+        "address": "Gandhi Path Rd, near Janki Garden, B Block, Vaishali Nagar, Jaipur, Rajasthan 302021",
+        "website": "instagram.com",
+        "phone_number": "083022 90667",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.9079041,
+        "longitude": 75.6611684
+    },
+    {
+        "name": "Stories- The Organic Farm Cafe (Bansal Landmark Pvt Ltd)",
+        "address": "Delhi jaipur highway, Jaipur, Labana, Rajasthan 303002",
+        "website": "",
+        "phone_number": "093522 65004",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 27.0992211,
+        "longitude": 75.8828911
+    },
+    {
+        "name": "Neemdi - A Farm Cafe",
+        "address": "Patrakar Colony Rd, near Neemdi ke balaji, Sunder Nagar, Jaipur, Rajasthan 302034",
+        "website": "",
+        "phone_number": "097852 62623",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8434061,
+        "longitude": 75.6792102
+    },
+    {
+        "name": "The Pawfee House",
+        "address": "FS-6, Gayatri Nagar, Maharani Farm, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "092566 00644",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8434061,
+        "longitude": 75.6792102
+    },
+    {
+        "name": "Coffee Farm",
+        "address": "G-53, Balaji Tower, 5, Mahal Rd, Jagatpura, Jaipur, Shri Kishanpura, Rajasthan 302017",
+        "website": "",
+        "phone_number": "084419 08453",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8020239,
+        "longitude": 75.7851208
+    },
+    {
+        "name": "Maharani Farm",
+        "address": "",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": "",
+        "latitude": 26.8502372,
+        "longitude": 75.7799355
+    },
+    {
+        "name": "The Messy Door Cafe - Mansarovar",
+        "address": "Namokar Building, M-1-A, Raghu Vihar, Main 30, Shipra Path, Mansarovar, Jaipur, Rajasthan 302020",
+        "website": "",
+        "phone_number": "093510 57718",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8485761,
+        "longitude": 75.7705926
+    },
+    {
+        "name": "Magic Beans Cafe",
+        "address": "40B, near Vidyasthali College, Maharani Farm, Prithviraj Nagar, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "instagram.com",
+        "phone_number": "087643 89712",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8527261,
+        "longitude": 75.7762244
+    },
+    {
+        "name": "The 202 Cafe & Kitchen",
+        "address": "202, Sirsi Rd, Officers Campus, Vaishali Nagar, Jaipur, Rajasthan 302021",
+        "website": "instagram.com",
+        "phone_number": "099281 20202",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.9211856,
+        "longitude": 75.7370032
+    },
+    {
+        "name": "Cafe LazyMojo",
+        "address": "H1, H2, SL Marg, opp. Genpact Jaipur, Lal Bahadur Nagar, Malviya Nagar, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "098289 50999",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8496617,
+        "longitude": 75.7961345
+    },
+    {
+        "name": "Rasoi Ghar",
+        "address": "Maharani Farm, Prithviraj Nagar, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "097828 10812",
+        "reviews_count": "",
+        "reviews_average": 3.9,
+        "latitude": 26.8525218,
+        "longitude": 75.7777519
+    },
+    {
+        "name": "Gulab ji chai Mansarovar",
+        "address": "Plot no 1, SMS Colony, Maharani Farm, IHITC Durgapur, Mansarovar, Jaipur, Rajasthan 302020",
+        "website": "",
+        "phone_number": "098296 64488",
+        "reviews_count": "",
+        "reviews_average": 3.9,
+        "latitude": 26.8479242,
+        "longitude": 75.7730389
+    },
+    {
+        "name": "Haryanvi Chai Adda | Cafe in Vaishali Nagar",
+        "address": "Shop A14, Stadium, Chitrakoot Marg, Vaishali Nagar, Jaipur, Rajasthan 302021",
+        "website": "",
+        "phone_number": "094991 80364",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.9011274,
+        "longitude": 75.7296916
+    },
+    {
+        "name": "Crazy Coffee | C scheme",
+        "address": "C, 39, Lajpat Marg, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "crazycoffeeindia.com",
+        "phone_number": "0141 428 5465",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.9108158,
+        "longitude": 75.8037601
+    },
+    {
+        "name": "Thiya 4.0",
+        "address": "Thiya 4.0, Maharani Farm Brg, IHITC Durgapur, Mansrover, Jaipur, Rajasthan 302020",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8475772,
+        "longitude": 75.7728769
+    },
+    {
+        "name": "Nibs Experia",
+        "address": "MGF Metropolitan Mall, B-16, Bhawani Singh Rd, Durgadas Colony, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "097999 99214",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.902586,
+        "longitude": 75.7898399
+    },
+    {
+        "name": "Bite Delightt - Indo Italian Garden Restaurant",
+        "address": "71 / 71A - Shipra Path, Puliya, near Dravyavati River, Maharani Farm, Mansarovar, Jaipur, Rajasthan 302020",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.2,
+        "latitude": 26.8479391,
+        "longitude": 75.7725957
+    },
+    {
+        "name": "Rio The Hungry Birds Cafe & Restro : Best Cafe In Vaishali Nagar, Jaipur.",
+        "address": "97, Gandhi Path Rd, Vaishali nagar, Lalarpura, Jaipur, Rajasthan 302021",
+        "website": "sites.google.com",
+        "phone_number": "093522 32365",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.901152,
+        "longitude": 75.7043919
+    },
+    {
+        "name": "Hotel Maharani Resorts",
+        "address": "Maharani Garden, Mangyawas Rd, Jai Shanker Colony, Geetanjali Colony, Mohru Nagar, Mansarovar, Jaipur, Rajasthan 302020",
+        "website": "",
+        "phone_number": "096104 44644",
+        "reviews_count": "",
+        "reviews_average": 4.2,
+        "latitude": 26.8639342,
+        "longitude": 75.746598
+    },
+    {
+        "name": "My Love Cafe",
+        "address": "44, Maharani Farm, Prithviraj Nagar, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "080033 49992",
+        "reviews_count": "",
+        "reviews_average": 5.0,
+        "latitude": 26.8528469,
+        "longitude": 75.7754787
+    },
+    {
+        "name": "Nothing Before Coffee - C - Scheme, Jaipur",
+        "address": "33, Mahavir Marg, C-Scheme, Sangram Colony, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "stores.nothingbeforecoffee.com",
+        "phone_number": "087418 72777",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.9094432,
+        "longitude": 75.8057963
+    },
+    {
+        "name": "Sawai Man Mahal, Jaipur",
+        "address": "Bhawani Singh Rd, near Hyundai Showroom, Rambagh, Jaipur, Rajasthan 302015",
+        "website": "tajhotels.com",
+        "phone_number": "0141 356 9700",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8968528,
+        "longitude": 75.8050759
+    },
+    {
+        "name": "The Hunger bites cafe",
+        "address": "C, Mokshadam ke samne, vinayak bhavan, 300, Mahaveer Nagar 2, Maharani Farm, Gayatri Nagar B, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "082399 10174",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8484995,
+        "longitude": 75.7765109
+    },
+    {
+        "name": "Gujarat Khaman House",
+        "address": "273, Maharani Farm, Mahaveer Nagar 2, Gayatri Nagar B, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "094140 37734",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8522684,
+        "longitude": 75.7772291
+    },
+    {
+        "name": "Ajmer Ki Prassidh Kadhi Kachodi",
+        "address": "Plot No, C44, Dalda Factory Rd, Mahaveer Nagar 2, Maharani Farm, Gayatri Nagar A, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "098290 15583",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8508948,
+        "longitude": 75.7741958
+    },
+    {
+        "name": "Mewar Rj09 cafe",
+        "address": "Dalda Factory Rd, Mahaveer Nagar 2, Maharani Farm, Gayatri Nagar B, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": "",
+        "latitude": 26.8508948,
+        "longitude": 75.7741958
+    },
+    {
+        "name": "Take It Easy - Lounge & Restaurant",
+        "address": "Plot No 3, Sirsi Rd, Hanuman Nagar Extension, Paschim Vihar, Vaishali Nagar, Jaipur, Rajasthan 302021",
+        "website": "sites.google.com",
+        "phone_number": "070731 60434",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.9202861,
+        "longitude": 75.731585
+    },
+    {
+        "name": "Let's Go Cafe & Rooftop",
+        "address": "3rd floor, Balaji Tower, Maharani Farm, Prithviraj Nagar, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.1,
+        "latitude": 26.8526665,
+        "longitude": 75.7768706
+    },
+    {
+        "name": "KIBANA- Restaurants & Banquets",
+        "address": "D, 1, D-2, Mansarovar, near river, Maharani Farm, Gayatri Nagar B, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "kibanabanqueteste.com",
+        "phone_number": "098288 55544",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8494286,
+        "longitude": 75.7735418
+    },
+    {
+        "name": "4 friends Cafe",
+        "address": "59a, maharani farm,nalanda vihar Durgapura , Jaipur 302018, Jaipur, Rajasthan 302020",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 3.5,
+        "latitude": 26.8535552,
+        "longitude": 75.7793234
+    },
+    {
+        "name": "Jagdamba tifin centre",
+        "address": "Jadon Nagar, Maharani Farm, Nalanda Vihar, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "094135 80152",
+        "reviews_count": "",
+        "reviews_average": "",
+        "latitude": 26.8535552,
+        "longitude": 75.7793234
+    },
+    {
+        "name": "Comic World Cafe",
+        "address": "1-C SMS Colony,, Maharani Farm, Durgapura Railway Colony, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "092693 45000",
+        "reviews_count": "",
+        "reviews_average": 4.1,
+        "latitude": 26.8522228,
+        "longitude": 75.7735548
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "The Farm Coffee Bar",
+        "address": "Gandhi Path Rd, near Janki Garden, B Block, Vaishali Nagar, Jaipur, Rajasthan 302021",
+        "website": "instagram.com",
+        "phone_number": "083022 90667",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.9079041,
+        "longitude": 75.6611684
+    },
+    {
+        "name": "Chai Farm Cafe",
+        "address": "Plot No. 575, Lane No. 7, Udai Marg, near LBS College Marg, Raja Park, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "083850 08383",
+        "reviews_count": "",
+        "reviews_average": 4.0,
+        "latitude": 26.8917735,
+        "longitude": 75.7556993
+    },
+    {
+        "name": "Stories- The Organic Farm Cafe (Bansal Landmark Pvt Ltd)",
+        "address": "Delhi jaipur highway, Jaipur, Labana, Rajasthan 303002",
+        "website": "",
+        "phone_number": "093522 65004",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 27.0992211,
+        "longitude": 75.8828911
+    },
+    {
+        "name": "Neemdi - A Farm Cafe",
+        "address": "Patrakar Colony Rd, near Neemdi ke balaji, Sunder Nagar, Jaipur, Rajasthan 302034",
+        "website": "",
+        "phone_number": "097852 62623",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8434061,
+        "longitude": 75.6792102
+    },
+    {
+        "name": "Maharaja Caf\u00e9",
+        "address": "BM Birla Auditorium, Rambagh, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "097999 62774",
+        "reviews_count": "",
+        "reviews_average": 3.8,
+        "latitude": 26.90639,
+        "longitude": 75.7350136
+    },
+    {
+        "name": "The Pawfee House",
+        "address": "FS-6, Gayatri Nagar, Maharani Farm, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "092566 00644",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8470123,
+        "longitude": 75.7129848
+    },
+    {
+        "name": "Maharani Farm",
+        "address": "",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": "",
+        "latitude": 26.8502372,
+        "longitude": 75.7799355
+    },
+    {
+        "name": "The Messy Door Cafe - Mansarovar",
+        "address": "Namokar Building, M-1-A, Raghu Vihar, Main 30, Shipra Path, Mansarovar, Jaipur, Rajasthan 302020",
+        "website": "",
+        "phone_number": "093510 57718",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8485761,
+        "longitude": 75.7705926
+    },
+    {
+        "name": "Maharani Farm",
+        "address": "Nalanda Vihar, Durgapura, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.852364,
+        "longitude": 75.7783069
+    },
+    {
+        "name": "maharani farm pulliya",
+        "address": "39, Mahavir Nagar, Sunder Vihar, Mata colony, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.1,
+        "latitude": 26.8490927,
+        "longitude": 75.7736338
+    }
+]

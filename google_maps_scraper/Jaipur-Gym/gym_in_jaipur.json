@@ -1,0 +1,532 @@
+[
+    {
+        "name": "Anytime Fitness Bapu Nagar",
+        "address": "5th Floor, Pavilion, Tonk Rd, Bapu Nagar, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "090574 03330",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8925492,
+        "longitude": 75.7710301
+    },
+    {
+        "name": "Fitness island gym (Lalkothi)",
+        "address": "A1, Nehru Path, Satya Vihar, Friends Colony, Krishna Nagar II, Lalkothi, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "086397 36126",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8925492,
+        "longitude": 75.7710301
+    },
+    {
+        "name": "KLEAN FIT Iconic C-SCHEME",
+        "address": "3rd Floor, Crystal Palm Mall, 22 Godown Circle, Sardar Patel Marg, near Nehru Sahkar Bhavan, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "090246 62515",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8925492,
+        "longitude": 75.7710301
+    },
+    {
+        "name": "Lemon fit gym",
+        "address": "2nd Floor, Narayan Singh Circle on, Narayan Singh Cir Foot Over Bridge, Rambagh, Jaipur, Rajasthan 302005",
+        "website": "lemon-fit-gym.grexa.site",
+        "phone_number": "085608 24152",
+        "reviews_count": "",
+        "reviews_average": 5.0,
+        "latitude": 26.8925492,
+        "longitude": 75.7710301
+    },
+    {
+        "name": "Anytime Fitness",
+        "address": "No C21/B, 5th Floor, City Mall, Bhagwan Das Rd, C-Scheme, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "anytimefitness.co.in",
+        "phone_number": "092160 55342",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8925492,
+        "longitude": 75.7710301
+    },
+    {
+        "name": "X CORE Fitness - Gym & Fitness Center | C-scheme Jaipur",
+        "address": "4th Floor, City Mall, 406 to 411, Ashok Marg, opposite Shree Rajput Sabha bhawan, C-Scheme, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "082908 86661",
+        "reviews_count": "",
+        "reviews_average": 4.4,
+        "latitude": 26.8925492,
+        "longitude": 75.7710301
+    },
+    {
+        "name": "Mad For Fitness | Best Gym in C-Scheme Jaipur",
+        "address": "3rd Floor, Ahinsa Circle, D-38A, Ashok Marg, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "070144 33443",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8925492,
+        "longitude": 75.7710301
+    },
+    {
+        "name": "CrossFit Gym",
+        "address": "A-9, Janta Store Cir, Bapu Nagar, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "079760 13905",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8925492,
+        "longitude": 75.7710301
+    },
+    {
+        "name": "Fit O'Clock",
+        "address": "1st floor, jamuna tower, govind Marg Anand puri, bees dukan Adarsh Nagar, Raja Park, Jaipur, Rajasthan 302004",
+        "website": "fitoclock.co.in",
+        "phone_number": "092160 56417",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8973925,
+        "longitude": 75.7898804
+    },
+    {
+        "name": "SQFIT GYM",
+        "address": "E-142, Ramesh Marg, Durgadas Colony, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "sqfit.in",
+        "phone_number": "089550 02694",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.905,
+        "longitude": 75.758386
+    },
+    {
+        "name": "LIFT & FIT gym",
+        "address": "Satya Vihar, Krishna Nagar II, Lalkothi, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "094610 61508",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.905,
+        "longitude": 75.758386
+    },
+    {
+        "name": "Fitup Fitness Lifestyle",
+        "address": "Bhagadiya Bhawan, J-33, Subhash Marg, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "095719 95817",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.905,
+        "longitude": 75.758386
+    },
+    {
+        "name": "The Core Fitness Gym",
+        "address": "4th Floor, KB Tower, near Parnami Mandir, Gurunanakpura, Raja Park, Jaipur, Rajasthan 302004",
+        "website": "instagram.com",
+        "phone_number": "077373 50359",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8974185,
+        "longitude": 75.7871681
+    },
+    {
+        "name": "The Reformer Studio | Best Gym in Jaipur",
+        "address": "2nd Floor, J-25, Subhash Marg, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "thereformerstudio.in",
+        "phone_number": "099288 66682",
+        "reviews_count": "",
+        "reviews_average": 5.0,
+        "latitude": 26.9072159,
+        "longitude": 75.7613645
+    },
+    {
+        "name": "Salt Fitness | Pilates and Strength Studio",
+        "address": "C-39, Lajpat Marg, next to crazy coffee, Panch Batti, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "saltfitness.in",
+        "phone_number": "099285 57556",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.9072159,
+        "longitude": 75.7613645
+    },
+    {
+        "name": "Anytime Fitness",
+        "address": "1st Floor, Udb Business Avenue, Saket Colony, Adarsh Nagar, Jaipur, Rajasthan 302004",
+        "website": "anytimefitness.co.in",
+        "phone_number": "092160 55343",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.899789,
+        "longitude": 75.7984194
+    },
+    {
+        "name": "Crude Fit | Raja Park's Best Gym",
+        "address": "Ground & 2nd Floor, B-16B, Dhruv Marg, Tilak Nagar, Raja Park, Jaipur, Rajasthan 302004",
+        "website": "instagram.com",
+        "phone_number": "095212 18821",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.899789,
+        "longitude": 75.7984194
+    },
+    {
+        "name": "Pro Ultimate Gyms Rajapark",
+        "address": "2 nd Floor, Govind Mag, SDC Prime, Rajapark, Jaipur, Rajasthan 302004",
+        "website": "proultimategyms.in",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.899789,
+        "longitude": 75.7984194
+    },
+    {
+        "name": "Better U Fitness",
+        "address": "No.1, 1st Floor, Of tea connect, Near, 189, Ram Gali, Panchwati Cir, Raja Park, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "078913 74860",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.899789,
+        "longitude": 75.7984194
+    },
+    {
+        "name": "Burnfit gym | Best Gym In Jaipur",
+        "address": "Plot no. A-7, behind Mehta book depo, Telephone Colony, Bank Colony, Gopal Pura Mode, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "082906 01516",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8769474,
+        "longitude": 75.7606942
+    },
+    {
+        "name": "The Raw Muscle Gym | Best Gym in Jaipur | Top Fitness Center in Jaipur",
+        "address": "Plot no 259, Gali No. 4, Raja Park, Jaipur, Rajasthan 302004",
+        "website": "rawmusclegym.com",
+        "phone_number": "070144 76292",
+        "reviews_count": "",
+        "reviews_average": 5.0,
+        "latitude": 26.8924135,
+        "longitude": 75.7945421
+    },
+    {
+        "name": "Open Air Gym",
+        "address": "WR34+VGJ, Central Park Jogging Path, Rambagh, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.9043704,
+        "longitude": 75.7708322
+    },
+    {
+        "name": "Muscle fit Club Raja park",
+        "address": "506, near Geeta Bhawan, Kamal Vihar, Tiwari Ji Ka Bagh, Ashok Chowk, Adarsh Nagar, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "075683 87373",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.9034196,
+        "longitude": 75.7915127
+    },
+    {
+        "name": "Body Shaper The Gym",
+        "address": "5, kailash vihar, New, Vidhan Sabha Rd, behind Kailash Tower, Satya Vihar, Greater Kailash Colony, Vidhayak Nagar, Lalkothi, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "098290 19227",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8882513,
+        "longitude": 75.7663857
+    },
+    {
+        "name": "MaxFit Folks - Elite Personal training club, C-Scheme",
+        "address": "E-159, Ramesh Marg, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "099285 05942",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8882513,
+        "longitude": 75.7663857
+    },
+    {
+        "name": "Shape Shifters Gym",
+        "address": "Root and teeth, opposite pink City, Krishna Nagar-B, Avadhpuri, Mahesh Nagar, honda, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "080055 81241",
+        "reviews_count": "",
+        "reviews_average": 4.4,
+        "latitude": 26.8882513,
+        "longitude": 75.7663857
+    },
+    {
+        "name": "FitCity by Abhishek",
+        "address": "D, 29, Subhash Marg, Panch Batti, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8882513,
+        "longitude": 75.7663857
+    },
+    {
+        "name": "Jaipur fitness gym",
+        "address": "40, Nh-8 Bypass Rd, Gulzar Colony, Lal Dungri, Jaipur, Rajasthan 302002",
+        "website": "instagram.com",
+        "phone_number": "088298 67760",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.9297391,
+        "longitude": 75.8095429
+    },
+    {
+        "name": "Body Temple Gym 2",
+        "address": "Plot No.8, near prince hotel, Ambedkar Nagar, Tonk Phatak, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "096673 19072",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.88125,
+        "longitude": 75.7603771
+    },
+    {
+        "name": "Talwalkars HiFi Gym, Raja Park",
+        "address": "Talwarkar Hi Fi gym, bank of baroda, near A.C. Market, Raja Park, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "086195 17256",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8932703,
+        "longitude": 75.7895423
+    },
+    {
+        "name": "Fitness Forge Gym",
+        "address": "SS Bhandari Nagar MJRP Circle, A-66, Swej Farm Rd, behind Zudio, Sunder Singh Bhandari Nagar, Ganesh Nagar, Sodala, Jaipur, Rajasthan 302019",
+        "website": "",
+        "phone_number": "099295 38007",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8914974,
+        "longitude": 75.7363249
+    },
+    {
+        "name": "Fitness Gym by Aroha",
+        "address": "B-11, behind Kailash Tower, Satya Vihar, Indra Puri, Vidhayak Nagar, Lalkothi, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "063674 08202",
+        "reviews_count": "",
+        "reviews_average": 5.0,
+        "latitude": 26.889116,
+        "longitude": 75.7653891
+    },
+    {
+        "name": "The Gym Eagles (Gym Near Raja Park)",
+        "address": "338-A, hotel City home, Gali No. 4, Gurunanakpura, Raja Park, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "094688 87279",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8940213,
+        "longitude": 75.7900381
+    },
+    {
+        "name": "Project Fit",
+        "address": "21, Sahakar Marg, Jyothi Nagar, Lalkothi, Jaipur, Rajasthan 302001",
+        "website": "projectfit.in",
+        "phone_number": "097733 66678",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.9008898,
+        "longitude": 75.7566654
+    },
+    {
+        "name": "Workout Adda, Unisex Gym",
+        "address": "120, Govind Marg, Adarsh Krishna Nagar, Bhagwati Nagar, Gopal Pura Mode, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "097828 66245",
+        "reviews_count": "",
+        "reviews_average": 4.4,
+        "latitude": 26.9008898,
+        "longitude": 75.7566654
+    },
+    {
+        "name": "The Top Gym",
+        "address": "6, Vivekanand Marg, Panch Batti, Sangram Colony, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.4,
+        "latitude": 26.9008898,
+        "longitude": 75.7566654
+    },
+    {
+        "name": "Fitness 24hrs GYM",
+        "address": "Plot no 13 uma path govindpuri, f block, Ram nagar, Sodala, Jaipur, Rajasthan 302019",
+        "website": "instagram.com",
+        "phone_number": "096026 15559",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8986762,
+        "longitude": 75.7390362
+    },
+    {
+        "name": "Fitness Connection - The best gym in rajapark",
+        "address": "Plot No 438 3 B Om Jaideep Residency Opp Chandra Sekhar Aazad Park, Raja Park Jaipur, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "080033 49770",
+        "reviews_count": "",
+        "reviews_average": 5.0,
+        "latitude": 26.8942336,
+        "longitude": 75.7913156
+    },
+    {
+        "name": "Fit & Fab Studio - gym",
+        "address": "Plot C- 49-50, Tonk Rd, opposite Shree Rama Krishna Hospital, Satya Vihar, Greater Kailash Colony, Vidhayak Nagar, Lalkothi, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8885415,
+        "longitude": 75.7654931
+    },
+    {
+        "name": "Icon fitness club",
+        "address": "J-96, Tiwari Ji Ka Bagh, Ashok Chowk, Adarsh Nagar, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.9055208,
+        "longitude": 75.7926625
+    },
+    {
+        "name": "Fitline Jaipur - Harish Stores - India's Premium Gym Equipment Showroom",
+        "address": "F - 21 (A1, Malviya Nagar Industrial Area, Malviya Nagar, Jaipur, Rajasthan 302017",
+        "website": "fitlineindia.com",
+        "phone_number": "095713 88889",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.854597,
+        "longitude": 75.7950071
+    },
+    {
+        "name": "Elite Class Fitness",
+        "address": "5-TA-18, near Buffet House, Sector 5, Jawahar Nagar, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8892769,
+        "longitude": 75.7950903
+    },
+    {
+        "name": "Newway Fitness Elite",
+        "address": "Metro piller No. 81, Devi nagar, near V mart, Vivek Vihar, Sodala, Jaipur, Rajasthan 302019",
+        "website": "",
+        "phone_number": "097999 09490",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8857859,
+        "longitude": 75.7320476
+    },
+    {
+        "name": "WORKOUT ADDA ELITE THE LUXURY GYM",
+        "address": "Pn 114 B, Krishna Nagar-B, Avadhpuri, Mahesh Nagar, Gopal Pura Mode, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "096800 38787",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8797271,
+        "longitude": 75.7514717
+    },
+    {
+        "name": "Coach AJ Fitness - Elite Fitness Studio",
+        "address": "A-24, 5th Floor, Jharwal House, Sardar Patel Marg, opp. Government Press, C-Scheme, Patel Colony, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "097721 22222",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.9154325,
+        "longitude": 75.7639279
+    },
+    {
+        "name": "ONYX -The Fitness Studio",
+        "address": "2nd Floor, The Landmark Building, Ahinsa Cir, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "070147 98690",
+        "reviews_count": "",
+        "reviews_average": 5.0,
+        "latitude": 26.9154325,
+        "longitude": 75.7639279
+    },
+    {
+        "name": "STAY Y FIT - Fitness Center in Jaipur",
+        "address": "Stay Y Fit Gym 2nd Floor 1-KA-11 Near Mama Ki Hotel, HDFC Bank Building, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8957083,
+        "longitude": 75.8014808
+    },
+    {
+        "name": "The Real Fitness Gym",
+        "address": "A, 7, Jamnalal Bajaj Marg, Shivaji Nagar, C Scheme, Hathroi, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "095497 20720",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.9085675,
+        "longitude": 75.7557626
+    },
+    {
+        "name": "FITCORE GYM",
+        "address": "D93A, Acharya Kriplani Marg, Anand Puri, Nagar, Adarsh Nagar, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "080056 13265",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.9006704,
+        "longitude": 75.7874605
+    },
+    {
+        "name": "Vault Fitness Jaipur (Best Personal Training Studio)",
+        "address": "3rd floor, A-40, Chabra Rd, near BJP office, Shree Ram Colony, Hawa Sadak, Ramnagar, Jaipur, Rajasthan 302019",
+        "website": "",
+        "phone_number": "083878 75233",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8968664,
+        "longitude": 75.7443407
+    },
+    {
+        "name": "DNA POWER FITNESS CENTER - BANIPARK",
+        "address": "D-188, ARG-Jugal Enclave, Kanti Chandra Rd, near Pareek College, Banipark, Jaipur, Rajasthan 302006",
+        "website": "",
+        "phone_number": "097821 73609",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.9269444,
+        "longitude": 75.764616
+    },
+    {
+        "name": "F3 Fitness Jaipur",
+        "address": "18-19, 18-19, near Kanwatia Circle, Sector 1, Ram Nagar, Shastri Nagar, Jaipur, Rajasthan 302016",
+        "website": "f3gym.com",
+        "phone_number": "083869 99983",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.9269444,
+        "longitude": 75.764616
+    },
+    {
+        "name": "EIFER FITNESS",
+        "address": "74, A, Raj Bhavan Rd, opposite gaurav nagar, Keshav Nagar, Civil Lines, Jaipur, Rajasthan 302006",
+        "website": "",
+        "phone_number": "080057 86083",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.9042529,
+        "longitude": 75.7451664
+    }
+]

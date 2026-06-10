@@ -1,0 +1,852 @@
+[
+    {
+        "name": "Cafesa - Pure Veg. Multi Cuisine Cafe and Restaurant",
+        "address": "12, Shiv Marg, Kirti Nagar, Shyam Nagar, Jaipur, Rajasthan 302019",
+        "website": "hotelthewhitemoon.com",
+        "phone_number": "098290 17934",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8966996,
+        "longitude": 75.6960455
+    },
+    {
+        "name": "Stepout Cafe",
+        "address": "12, Shiv Marg, Kirti Nagar, Shyam Nagar, Jaipur, Rajasthan 302019",
+        "website": "hotelthewhitemoon.com",
+        "phone_number": "098290 17934",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8966996,
+        "longitude": 75.6960455
+    },
+    {
+        "name": "Caf\u00e9 Bae",
+        "address": "A/1, 21, Sahkar Marg, Circle, near 22 Godown, C Scheme, Jaipur, Rajasthan 302006",
+        "website": "",
+        "phone_number": "0141 274 4131",
+        "reviews_count": "",
+        "reviews_average": 4.4,
+        "latitude": 26.8966996,
+        "longitude": 75.6960455
+    },
+    {
+        "name": "Jaipur cafe",
+        "address": "Moti Dungri Road, Bhabha Marg, near ICICI bank, Dairy, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8966996,
+        "longitude": 75.6960455
+    },
+    {
+        "name": "Sequoia Caf\u00e9",
+        "address": "Moti Dungri Road, Bhabha Marg, near ICICI bank, Dairy, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Cafe Kassa",
+        "address": "Hotel Narain Niwas Palace, Narayan Singh Rd, Rambagh, Jaipur, Rajasthan 302004",
+        "website": "studiokassa.com",
+        "phone_number": "076655 07555",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Signature cafe- cabin cafe in Jaipur, Couples cafe",
+        "address": "Hotel Narain Niwas Palace, Narayan Singh Rd, Rambagh, Jaipur, Rajasthan 302004",
+        "website": "studiokassa.com",
+        "phone_number": "076655 07555",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Anokhi Caf\u00e9",
+        "address": "2nd floor, KK Square, Prithviraj Rd, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302005",
+        "website": "anokhi.com",
+        "phone_number": "0141 400 7245",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Jaipur Retro Cafe | Best cafe in jaipur\u200b",
+        "address": "2nd floor, KK Square, Prithviraj Rd, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302005",
+        "website": "anokhi.com",
+        "phone_number": "0141 400 7245",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Coffee Sutra C-Scheme",
+        "address": "G-3, Ground Floor, UKMS, AURUM, Tilak Marg, near CBI office, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302005",
+        "website": "sutracoffee.com",
+        "phone_number": "091169 07479",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "RANGOON COFFEE BREWERY JAIPUR - Best Cafes in Jaipur | Coffee Shops in Jaipur | Coffee House in Jaipur",
+        "address": "G-3, Ground Floor, UKMS, AURUM, Tilak Marg, near CBI office, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302005",
+        "website": "sutracoffee.com",
+        "phone_number": "091169 07479",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Town Coffee",
+        "address": "Plot no. 4, Durgadas Colony, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "077118 99994",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Cafe Auberge",
+        "address": "Plot no. 4, Durgadas Colony, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "077118 99994",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Blue Door Cafe",
+        "address": "Hathikhane ke paas, Kabutro ka chowk, CITY PALACE, Tulsi Marg, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002",
+        "website": "bluedoorcafe.in",
+        "phone_number": "097841 04113",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Jaipur Vista Cafe",
+        "address": "Hathikhane ke paas, Kabutro ka chowk, CITY PALACE, Tulsi Marg, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002",
+        "website": "bluedoorcafe.in",
+        "phone_number": "097841 04113",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Cafe & Cream",
+        "address": "heritage boutique hotel, Sugan Niwas Palace, Vijay path, behind Sindhi Camp Bus Stand, near laxmi palace, Kanti Nagar, Sindhi Camp, Jaipur, Rajasthan 302006",
+        "website": "instagram.com",
+        "phone_number": "096027 80077",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Tapri Pratham\u00ae",
+        "address": "heritage boutique hotel, Sugan Niwas Palace, Vijay path, behind Sindhi Camp Bus Stand, near laxmi palace, Kanti Nagar, Sindhi Camp, Jaipur, Rajasthan 302006",
+        "website": "instagram.com",
+        "phone_number": "096027 80077",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Roastery Coffee House | C Scheme",
+        "address": "J-8, Subhash Marg, near Kerala bhawan, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "roasterycoffee.co.in",
+        "phone_number": "099670 09166",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Nothing Before Coffee - C - Scheme, Jaipur",
+        "address": "J-8, Subhash Marg, near Kerala bhawan, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "roasterycoffee.co.in",
+        "phone_number": "099670 09166",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Carbon Jaipur",
+        "address": "F, 6A, Ramesh Marg, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "073000 03836",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Indian Coffee House Jawaher Kala Kendra Jaipur",
+        "address": "Jawahar Kala Kendra, JAWAHAR KALA KENDRA, Jawahar Lal Nehru Marg, Gandhi Nagar, Jaipur, Rajasthan 302001",
+        "website": "indianyouthparliament.co.in",
+        "phone_number": "083859 19943",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Panchayat Caf\u00e9 \u2013 Desi Chai & Chill Spot",
+        "address": "Near, Constitutional Club 16A, Satya Vihar, Vidhayak Nagar, Lalkothi, Jaipur, Rajasthan 302015",
+        "website": "instagram.com",
+        "phone_number": "096104 44475",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "The house of coffee",
+        "address": "Near, Constitutional Club 16A, Satya Vihar, Vidhayak Nagar, Lalkothi, Jaipur, Rajasthan 302015",
+        "website": "instagram.com",
+        "phone_number": "096104 44475",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "The Magnolia",
+        "address": "Garden Theatre, Smriti Van, Jawahar Lal Nehru Marg, Jhalana Doongri, Jaipur, Rajasthan 302017",
+        "website": "",
+        "phone_number": "098284 75999",
+        "reviews_count": "",
+        "reviews_average": 4.2,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Noir Coffee House jaipur",
+        "address": "Garden Theatre, Smriti Van, Jawahar Lal Nehru Marg, Jhalana Doongri, Jaipur, Rajasthan 302017",
+        "website": "",
+        "phone_number": "098284 75999",
+        "reviews_count": "",
+        "reviews_average": 4.2,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Rasa cafe",
+        "address": "Narayan Singh Circle on, Narayan Singh Cir Foot Over Bridge, Rambagh, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "063502 33753",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Verandah Cafe",
+        "address": "Narayan Singh Circle on, Narayan Singh Cir Foot Over Bridge, Rambagh, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "063502 33753",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Cafe LazyMojo",
+        "address": "H1, H2, SL Marg, opp. Genpact Jaipur, Lal Bahadur Nagar, Malviya Nagar, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "098289 50999",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "Tapri Central",
+        "address": "H1, H2, SL Marg, opp. Genpact Jaipur, Lal Bahadur Nagar, Malviya Nagar, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "098289 50999",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "The Jaipur Cafe and restaurant",
+        "address": "H1, H2, SL Marg, opp. Genpact Jaipur, Lal Bahadur Nagar, Malviya Nagar, Jaipur, Rajasthan 302018",
+        "website": "",
+        "phone_number": "098289 50999",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8966746,
+        "longitude": 75.7459701
+    },
+    {
+        "name": "CAFE HAVANA JAIPUR",
+        "address": "NC-701, 7TH FLOOR, R-TECH CAPITAL HIGHSTREET MALL, Mahal Rd, near AKASHYA PATRA MANDIR, JAGATPURA, Jaipur, Shri Kishanpura, Rajasthan 302017",
+        "website": "havanajaipur.com",
+        "phone_number": "092575 65666",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8002378,
+        "longitude": 75.789039
+    },
+    {
+        "name": "Sultanat Cafe Fort Jaipur",
+        "address": "NC-701, 7TH FLOOR, R-TECH CAPITAL HIGHSTREET MALL, Mahal Rd, near AKASHYA PATRA MANDIR, JAGATPURA, Jaipur, Shri Kishanpura, Rajasthan 302017",
+        "website": "havanajaipur.com",
+        "phone_number": "092575 65666",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8002378,
+        "longitude": 75.789039
+    },
+    {
+        "name": "Half Light Coffee Roasters | C Scheme",
+        "address": "NC-701, 7TH FLOOR, R-TECH CAPITAL HIGHSTREET MALL, Mahal Rd, near AKASHYA PATRA MANDIR, JAGATPURA, Jaipur, Shri Kishanpura, Rajasthan 302017",
+        "website": "havanajaipur.com",
+        "phone_number": "092575 65666",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8002378,
+        "longitude": 75.789039
+    },
+    {
+        "name": "The Coffee Cartel Jaipur",
+        "address": "Shop NO.-G, Plot No 146-147, Ground Floor, 102, Vivek Vihar Rd, Bajaj Nagar, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "089559 57350",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8676355,
+        "longitude": 75.7314944
+    },
+    {
+        "name": "Jaipur Modern - Store & Kitchen",
+        "address": "Shop NO.-G, Plot No 146-147, Ground Floor, 102, Vivek Vihar Rd, Bajaj Nagar, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "089559 57350",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.8676355,
+        "longitude": 75.7314944
+    },
+    {
+        "name": "Indian Coffee House",
+        "address": "371, Mirza Ismail Rd, Jayanti Market, New Colony, Jaipur, Rajasthan 302001",
+        "website": "indiancoffeehouse.com",
+        "phone_number": "0141 236 2024",
+        "reviews_count": "",
+        "reviews_average": 4.2,
+        "latitude": 26.917005,
+        "longitude": 75.7423295
+    },
+    {
+        "name": "Silly Rabbit Kafe",
+        "address": "371, Mirza Ismail Rd, Jayanti Market, New Colony, Jaipur, Rajasthan 302001",
+        "website": "indiancoffeehouse.com",
+        "phone_number": "0141 236 2024",
+        "reviews_count": "",
+        "reviews_average": 4.2,
+        "latitude": 26.917005,
+        "longitude": 75.7423295
+    },
+    {
+        "name": "Tibara Art Caf\u00e9",
+        "address": "Gate No 2, Rajasthan International Centre, Jhalana Doongri, Jaipur, Rajasthan 302017",
+        "website": "teatradition.in",
+        "phone_number": "099504 99499",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.917005,
+        "longitude": 75.7423295
+    },
+    {
+        "name": "Eascarl Cafe | Rajapark, Jaipur",
+        "address": "Gate No 2, Rajasthan International Centre, Jhalana Doongri, Jaipur, Rajasthan 302017",
+        "website": "teatradition.in",
+        "phone_number": "099504 99499",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.917005,
+        "longitude": 75.7423295
+    },
+    {
+        "name": "The Tattoo Cafe & Lounge",
+        "address": "3rd floor, 30, Opposite Hawa Mahal, Hawa Mahal Rd, Jaipur, Rajasthan 302002",
+        "website": "",
+        "phone_number": "098280 65533",
+        "reviews_count": "",
+        "reviews_average": 4.2,
+        "latitude": 26.917005,
+        "longitude": 75.7423295
+    },
+    {
+        "name": "Heli Jaipur Caf\u00e9",
+        "address": "3rd floor, 30, Opposite Hawa Mahal, Hawa Mahal Rd, Jaipur, Rajasthan 302002",
+        "website": "",
+        "phone_number": "098280 65533",
+        "reviews_count": "",
+        "reviews_average": 4.2,
+        "latitude": 26.917005,
+        "longitude": 75.7423295
+    },
+    {
+        "name": "Near Me Cafe | Restaurant",
+        "address": "3rd Floor, Mouj Mahal, Amer Rd, opposite Baharampuri Thana, Agrasen Nagar, Govind Nagar East, Govind Nagar, Jaipur, Rajasthan 302002",
+        "website": "",
+        "phone_number": "091191 29295",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.917005,
+        "longitude": 75.7423295
+    },
+    {
+        "name": "K CAFE-PRIVATE CABIN IN JAIPUR",
+        "address": "1ST FLOOR, MAYA PLAZA, near, PARNAMI MANDIR CHAURAHA, Gurunanakpura, Raja Park, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "070148 44383",
+        "reviews_count": "",
+        "reviews_average": 4.4,
+        "latitude": 26.917005,
+        "longitude": 75.7423295
+    },
+    {
+        "name": "Cafe CornerStone by Pallavi Daga",
+        "address": "1ST FLOOR, MAYA PLAZA, near, PARNAMI MANDIR CHAURAHA, Gurunanakpura, Raja Park, Jaipur, Rajasthan 302004",
+        "website": "",
+        "phone_number": "070148 44383",
+        "reviews_count": "",
+        "reviews_average": 4.4,
+        "latitude": 26.917005,
+        "longitude": 75.7423295
+    },
+    {
+        "name": "Jaipur coffee house",
+        "address": "126 Vidyut Nagar-C, Chitrakoot Marg, near ICICI Bank, Vaishali Nagar, Jaipur, Rajasthan 302021",
+        "website": "",
+        "phone_number": "082332 60050",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.9042105,
+        "longitude": 75.6669789
+    },
+    {
+        "name": "Haveli Cafe - Jaipur Candle Light Dinner",
+        "address": "126 Vidyut Nagar-C, Chitrakoot Marg, near ICICI Bank, Vaishali Nagar, Jaipur, Rajasthan 302021",
+        "website": "",
+        "phone_number": "082332 60050",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.9042105,
+        "longitude": 75.6669789
+    },
+    {
+        "name": "Owner's Cafe",
+        "address": "D-13, Barkat Nagar Rd, opposite Bl hotel, Adarsh Basti, Madhuvan Colony, Barkat Nagar, Tonk Phatak, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "085048 14160",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.877674,
+        "longitude": 75.7229752
+    },
+    {
+        "name": "Cafe Kothi",
+        "address": "D-13, Barkat Nagar Rd, opposite Bl hotel, Adarsh Basti, Madhuvan Colony, Barkat Nagar, Tonk Phatak, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "085048 14160",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.877674,
+        "longitude": 75.7229752
+    },
+    {
+        "name": "Cafe Joypour",
+        "address": "stadium, B-40, near Jayshree Periwal Highschool stadium, Chitrakoot, Jaipur, Rajasthan 302034",
+        "website": "instagram.com",
+        "phone_number": "098281 72459",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.9012464,
+        "longitude": 75.6643073
+    },
+    {
+        "name": "UP&UP - THE MUSICAL TERRACE",
+        "address": "stadium, B-40, near Jayshree Periwal Highschool stadium, Chitrakoot, Jaipur, Rajasthan 302034",
+        "website": "instagram.com",
+        "phone_number": "098281 72459",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.9012464,
+        "longitude": 75.6643073
+    },
+    {
+        "name": "How Sweet Bakery & Cafe",
+        "address": "C 29, Pankaj Singhvi Marg, Main, Vidhan Sabha Rd, Lalkothi, Jaipur, Rajasthan 302015",
+        "website": "howsweet.co.in",
+        "phone_number": "0141 491 5219",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8911715,
+        "longitude": 75.7299447
+    },
+    {
+        "name": "Wind View Cafe",
+        "address": "C 29, Pankaj Singhvi Marg, Main, Vidhan Sabha Rd, Lalkothi, Jaipur, Rajasthan 302015",
+        "website": "howsweet.co.in",
+        "phone_number": "0141 491 5219",
+        "reviews_count": "",
+        "reviews_average": 4.6,
+        "latitude": 26.8911715,
+        "longitude": 75.7299447
+    },
+    {
+        "name": "Near Me Cafe | Restaurant Jaipur",
+        "address": "Scheme No.1, Plot No. 9, Jawahar Lal Nehru Marg, near Nawal Towers, Sector 8, Malviya Nagar, Jaipur, Rajasthan 302017",
+        "website": "",
+        "phone_number": "091191 29295",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.8911715,
+        "longitude": 75.7299447
+    },
+    {
+        "name": "UP CAFE",
+        "address": "3rd Floor, SB-54-C, Rambagh Circle, Tonk Rd, Rambagh, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.4,
+        "latitude": 26.8911715,
+        "longitude": 75.7299447
+    },
+    {
+        "name": "Tap On Cafe Jaipur",
+        "address": "3rd Floor, SB-54-C, Rambagh Circle, Tonk Rd, Rambagh, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.4,
+        "latitude": 26.8911715,
+        "longitude": 75.7299447
+    },
+    {
+        "name": "Nothing Before Coffee - Mansarovar, Jaipur",
+        "address": "L-1, Shipra Path, opp. Landscape Park Road, Mansarovar Sector 7, Shipra Path, Barh Devariya, Mansarovar, Jaipur, Rajasthan 302020",
+        "website": "stores.nothingbeforecoffee.com",
+        "phone_number": "091165 07912",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8911715,
+        "longitude": 75.7299447
+    },
+    {
+        "name": "Pink heart cafe",
+        "address": "L-1, Shipra Path, opp. Landscape Park Road, Mansarovar Sector 7, Shipra Path, Barh Devariya, Mansarovar, Jaipur, Rajasthan 302020",
+        "website": "stores.nothingbeforecoffee.com",
+        "phone_number": "091165 07912",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8911715,
+        "longitude": 75.7299447
+    },
+    {
+        "name": "B&B-Brew and Brunch",
+        "address": "O-12, Ashok Marg, Patrakar Colony, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "073406 50765",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8911715,
+        "longitude": 75.7299447
+    },
+    {
+        "name": "Caf\u00e9 White Sage",
+        "address": "O-12, Ashok Marg, Patrakar Colony, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "073406 50765",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.8911715,
+        "longitude": 75.7299447
+    },
+    {
+        "name": "The Rustic Spot Caf\u00e9 ( Best Wood Fired Pizza | Coffee & More)",
+        "address": "21/62 C, Bhrigu Path, Sector 21, Mansarovar, Jaipur, Rajasthan 302020",
+        "website": "therusticspotcafe.in",
+        "phone_number": "099824 52074",
+        "reviews_count": "",
+        "reviews_average": 4.4,
+        "latitude": 26.8776486,
+        "longitude": 75.6790019
+    },
+    {
+        "name": "Cafe Orleans",
+        "address": "21/62 C, Bhrigu Path, Sector 21, Mansarovar, Jaipur, Rajasthan 302020",
+        "website": "therusticspotcafe.in",
+        "phone_number": "099824 52074",
+        "reviews_count": "",
+        "reviews_average": 4.4,
+        "latitude": 26.8776486,
+        "longitude": 75.6790019
+    },
+    {
+        "name": "Jaipur Adda",
+        "address": "Rooftop, Nirwana Hometel MI Road, Shri Amarapur Setu, Jaipur, Rajasthan 302001",
+        "website": "sarovarhotels.com",
+        "phone_number": "080039 93681",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "Brewlicious Rooftop Bar Restaurant in Jaipur",
+        "address": "Rooftop, Nirwana Hometel MI Road, Shri Amarapur Setu, Jaipur, Rajasthan 302001",
+        "website": "sarovarhotels.com",
+        "phone_number": "080039 93681",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "Bar Palladio Jaipur",
+        "address": "hotel, Narayan Singh circle zari showroom, inside Narayan Niwas, Jaipur, Rajasthan 302004",
+        "website": "bar-palladio.com",
+        "phone_number": "088906 30553",
+        "reviews_count": "",
+        "reviews_average": 4.0,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "The Jaipur Cafe",
+        "address": "hotel, Narayan Singh circle zari showroom, inside Narayan Niwas, Jaipur, Rajasthan 302004",
+        "website": "bar-palladio.com",
+        "phone_number": "088906 30553",
+        "reviews_count": "",
+        "reviews_average": 4.0,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "Steam",
+        "address": "Bhawani Singh Rd, Rambagh, Jaipur, Rajasthan 302015",
+        "website": "tajhotels.com",
+        "phone_number": "0141 667 1234",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "Cafe By V2",
+        "address": "Bhawani Singh Rd, Rambagh, Jaipur, Rajasthan 302015",
+        "website": "tajhotels.com",
+        "phone_number": "0141 667 1234",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "Cafe De Jaipur",
+        "address": "G 1, Tulip, near National Handloom, Sector 2, Central Spine, Vidyadhar Nagar, Jaipur, Rajasthan 302039",
+        "website": "",
+        "phone_number": "063762 11325",
+        "reviews_count": "",
+        "reviews_average": 5.0,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "Nothing Before Coffee - Bani Park, Jaipur",
+        "address": "G 1, Tulip, near National Handloom, Sector 2, Central Spine, Vidyadhar Nagar, Jaipur, Rajasthan 302039",
+        "website": "",
+        "phone_number": "063762 11325",
+        "reviews_count": "",
+        "reviews_average": 5.0,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "Crown Cafe | Cafe in Tonk Phatak, Jaipur",
+        "address": "S-56B, Barkat Nagar Chauraaha, near Laxmi Sweets & Caters, Barkat Nagar, Tonk Phatak, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "Maharaja Caf\u00e9",
+        "address": "S-56B, Barkat Nagar Chauraaha, near Laxmi Sweets & Caters, Barkat Nagar, Tonk Phatak, Jaipur, Rajasthan 302015",
+        "website": "",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.8,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "Cafe Viva",
+        "address": "Kashi Bhawan, Leisure Inn Grand Chanakya Hotel, Mirza Ismail Rd, Jayanti Market, New Colony, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "0141 331 9488",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "K CAFE PRIVATE cabin in Jaipur",
+        "address": "Kashi Bhawan, Leisure Inn Grand Chanakya Hotel, Mirza Ismail Rd, Jayanti Market, New Colony, Jaipur, Rajasthan 302001",
+        "website": "",
+        "phone_number": "0141 331 9488",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.9211562,
+        "longitude": 75.7229384
+    },
+    {
+        "name": "Jaipur Cafe",
+        "address": "Shop No 76, Jaswant Nagar Rd, Officers Campus, Khatipura, Jaipur, Rajasthan 302012",
+        "website": "",
+        "phone_number": "096946 45860",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.9211254,
+        "longitude": 75.6689111
+    },
+    {
+        "name": "Zolocrust",
+        "address": "Shop No 76, Jaswant Nagar Rd, Officers Campus, Khatipura, Jaipur, Rajasthan 302012",
+        "website": "",
+        "phone_number": "096946 45860",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.9211254,
+        "longitude": 75.6689111
+    },
+    {
+        "name": "The Farm Coffee Bar",
+        "address": "Gandhi Path Rd, near Janki Garden, B Block, Vaishali Nagar, Jaipur, Rajasthan 302021",
+        "website": "instagram.com",
+        "phone_number": "083022 90667",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.9211254,
+        "longitude": 75.6689111
+    },
+    {
+        "name": "jaipur valley cafe",
+        "address": "Gandhi Path Rd, near Janki Garden, B Block, Vaishali Nagar, Jaipur, Rajasthan 302021",
+        "website": "instagram.com",
+        "phone_number": "083022 90667",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.9211254,
+        "longitude": 75.6689111
+    },
+    {
+        "name": "Dosa Town Jaipur ( Best South Indian Restaurant in Jaipur )",
+        "address": "101, Jawahar Lal Nehru Marg, opp. JK Loan Hospital, Dusadon Ka Bagh, Rambagh, Jaipur, Rajasthan 302004",
+        "website": "instagram.com",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.9211254,
+        "longitude": 75.6689111
+    },
+    {
+        "name": "QUYU'S",
+        "address": "101, Jawahar Lal Nehru Marg, opp. JK Loan Hospital, Dusadon Ka Bagh, Rambagh, Jaipur, Rajasthan 302004",
+        "website": "instagram.com",
+        "phone_number": "",
+        "reviews_count": "",
+        "reviews_average": 4.7,
+        "latitude": 26.902468,
+        "longitude": 75.7447687
+    },
+    {
+        "name": "Jaipur Local - Everyday Bar",
+        "address": "Premier, City Plaza, Lemontree, Nirwan Marg, Sindhi Colony, Bani Park, Jaipur, Rajasthan 302016",
+        "website": "lemontreehotels.com",
+        "phone_number": "090010 96673",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.902468,
+        "longitude": 75.7447687
+    },
+    {
+        "name": "Algoza Rooftop Cafe Jaipur",
+        "address": "Premier, City Plaza, Lemontree, Nirwan Marg, Sindhi Colony, Bani Park, Jaipur, Rajasthan 302016",
+        "website": "lemontreehotels.com",
+        "phone_number": "090010 96673",
+        "reviews_count": "",
+        "reviews_average": 4.5,
+        "latitude": 26.902468,
+        "longitude": 75.7447687
+    },
+    {
+        "name": "Jaipur Cafe",
+        "address": "RHQ7+FR4, Manipal University Rd, Dahmi Kalan, Rajasthan 303007",
+        "website": "",
+        "phone_number": "083868 29855",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8387335,
+        "longitude": 75.4922139
+    },
+    {
+        "name": "The Palace Cafe Restaurant",
+        "address": "RHQ7+FR4, Manipal University Rd, Dahmi Kalan, Rajasthan 303007",
+        "website": "",
+        "phone_number": "083868 29855",
+        "reviews_count": "",
+        "reviews_average": 4.9,
+        "latitude": 26.8387335,
+        "longitude": 75.4922139
+    },
+    {
+        "name": "Shikaar Bagh - Restaurant and Bar",
+        "address": "Hotel Narain Niwas Palace, Rambagh, Jaipur, Rajasthan 302004",
+        "website": "hotelnarainniwas.com",
+        "phone_number": "078777 64071",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8984024,
+        "longitude": 75.7419343
+    },
+    {
+        "name": "Vine Jaipur Cafe & Lounge",
+        "address": "Hotel Narain Niwas Palace, Rambagh, Jaipur, Rajasthan 302004",
+        "website": "hotelnarainniwas.com",
+        "phone_number": "078777 64071",
+        "reviews_count": "",
+        "reviews_average": 4.3,
+        "latitude": 26.8984024,
+        "longitude": 75.7419343
+    }
+]
